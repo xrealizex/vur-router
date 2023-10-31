@@ -11,7 +11,7 @@ provide("memberList", reactive(memberList))
 
 <template>
   <header>
-    <h1>Vur Routerサンプル</h1>
+    <h1>Vue Routerサンプル</h1>
   </header>
   <main>
     <RouterView />
